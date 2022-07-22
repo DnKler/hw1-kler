@@ -1,4 +1,4 @@
-# hw1-kler-nkodia
+# hw1-kler
 
 ### Homework 1
 
